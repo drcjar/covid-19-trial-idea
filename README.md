@@ -1,5 +1,4 @@
- 1. I had an idea that an RCT of n-acetylcysteine for admitted covid-19
-confirmed cases with an outcome of ITU or not might be valuable because:
+I had an idea that an RCT of n-acetylcysteine for admitted covid-19 confirmed cases with an outcome of ITU or not might be valuable because:
 
 - there might be a sars-cov2 mucin like domain involved in immunoevasion[1]
 
@@ -11,13 +10,7 @@ confirmed cases with an outcome of ITU or not might be valuable because:
 
 I do not know enough to know if the idea is any good or what the steps would be / if it's realistic to get an RCT set up quickly. What do you think?
 
-2. I can see 522 covid-19 trials registered on WHO International Clinical Trials Registry Platform[5] but none in the UK. I will be working clinically during the pandemic at Imperial (I'm currently ST7 resp and gen med at CXH). I strongly feel we should be doing research on covid-19 during the
-pandemic and would be v happy to support any approved research I can during this
-period. Can I help?
-
-Thanks, Carl
-
-n.b I did also ping Peter Openshaw but haven't heard from him and my friend Tom Yates suggested getting in touch with you
+Get in touch. Carl - drcjar@gmail.com @drcjar on twitter.
 
 1. https://www.nature.com/articles/s41591-020-0820-9
 2. https://www.ncbi.nlm.nih.gov/pubmed/9230243
