@@ -32,5 +32,3 @@ www.cabdirect.org
 中国临床试验注册中心 - 世界卫生组织国际临床试验注册平台一级注册机构 - chictr.org.cn
 非常抱歉!您查看的项目的不存在或已超过当天最大查看次数。
 www.chictr.org.cn
-
-5. http://apps.who.int/trialsearch/Default.aspx
