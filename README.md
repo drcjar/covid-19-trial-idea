@@ -1,3 +1,5 @@
+# idea
+
 I had an idea that an RCT of n-acetylcysteine for admitted covid-19 confirmed cases with an outcome of ITU or not might be valuable because:
 
 - there might be a sars-cov2 mucin like domain involved in immunoevasion[1]
@@ -11,6 +13,8 @@ I had an idea that an RCT of n-acetylcysteine for admitted covid-19 confirmed ca
 I do not know enough to know if the idea is any good or what the steps would be / if it's realistic to get an RCT set up quickly. What do you think?
 
 Get in touch. Carl - drcjar@gmail.com | https://twitter.com/drcjar
+
+# references 
 
 1. https://www.nature.com/articles/s41591-020-0820-9
 2. https://www.ncbi.nlm.nih.gov/pubmed/9230243
